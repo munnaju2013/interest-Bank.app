@@ -1,0 +1,8 @@
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\bin\Debug\brac bank.exe.config
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\bin\Debug\brac bank.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\bin\Debug\brac bank.pdb
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\obj\Debug\brac_bank.Form1.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\obj\Debug\brac_bank.Properties.Resources.resources
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\obj\Debug\brac bank.csproj.GenerateResource.Cache
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\obj\Debug\brac bank.exe
+c:\users\istiaq mahmud\documents\visual studio 2012\Projects\brac bank\brac bank\obj\Debug\brac bank.pdb
